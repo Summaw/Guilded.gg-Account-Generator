@@ -1,4 +1,4 @@
-- Requirements 
+Requirements 
 - Latest version of nodejs
 - puppeteer
 - brave browser
