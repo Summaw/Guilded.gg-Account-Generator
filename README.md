@@ -26,3 +26,7 @@ About
 - Easy to use and shows time taken to generate.
 - Accounts generated will be output to generated.txt
 - Leave a star <3
+
+Preview:
+![image](https://user-images.githubusercontent.com/98126132/190718426-fe76abd2-56a4-4064-84ff-a94325cc92b0.png)
+
