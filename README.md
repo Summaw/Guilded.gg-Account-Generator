@@ -6,15 +6,15 @@ Requirements
 - 10 stars and i'll add proxy support.
 
 Installation
-- open a cmd from the directory.
-- type npm install puppeteer-extra
-- npm install puppeteer-extra-plugin-stealth
-- npm install secure-random-password
-- npm install temp-mail-fuck
-- npm install cli-color
-- npm install fs
-- npm install gradient-string
-- npm install console-title
+- Open a cmd from the directory and type:
+- `npm i puppeteer-extra`
+- `npm i puppeteer-extra-plugin-stealth`
+- `npm i secure-random-password`
+- `npm i temp-mail-fuck`
+- `npm i cli-color`
+- `npm i fs`
+- `npm i gradient-string`
+- `npm i console-title`
 
 Update 
 - Added option to run multiple instances 
