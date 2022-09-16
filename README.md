@@ -2,6 +2,8 @@ Requirements
 - Latest version of nodejs
 - puppeteer
 - brave browser
+- I would use a vpn or proxy of some sort.
+- 10 stars and i'll add proxy support.
 
 Installation
 - open a cmd from the directory.
@@ -28,5 +30,6 @@ About
 - Leave a star <3
 
 Preview:
+
 ![image](https://user-images.githubusercontent.com/98126132/190718426-fe76abd2-56a4-4064-84ff-a94325cc92b0.png)
 
