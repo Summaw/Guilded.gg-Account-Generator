@@ -8,10 +8,18 @@ Installation
 - type npm install puppeteer-extra
 - npm install puppeteer-extra-plugin-stealth
 - npm install secure-random-password
-- npm install username-generator
 - npm install temp-mail-fuck
 - npm install cli-color
 - npm install fs
+- npm install gradient-string
+- npm install console-title
+
+Update 
+- Added option to run multiple instances 
+- Added counter
+- Added couple new packages to make program look cool :D
+- Added logo
+- And some other little things
 
 About
 - Made for a friend
