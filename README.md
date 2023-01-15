@@ -1,7 +1,7 @@
 Requirements 
 - Latest version of nodejs
 - puppeteer
-- brave browser
+- brave browser (perferably)
 - I would use a vpn or proxy of some sort.
 - 10 stars and i'll add proxy support.
 
